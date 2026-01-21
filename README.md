@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=cernekr&label=Profile%20Views&color=0e75b6&style=flat" alt="cernekr" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Graduate-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Mobile%20%26%20Web-Developer-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI-Integration-purple?style=flat-square"/>
-</p>
 
 ---
 
