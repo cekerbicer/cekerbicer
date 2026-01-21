@@ -23,7 +23,7 @@ I enjoy turning ideas into usable products and constantly improving my technical
 
 ### 🎓 Education
 - **Computer Engineering**  
-  Afyon Kocatepe University (2021 – 2025)
+  Afyon Kocatepe University (2021 – 2025| 2.81)
 
 ---
 
