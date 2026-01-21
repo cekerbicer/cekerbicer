@@ -22,7 +22,7 @@ I enjoy turning ideas into usable products and constantly improving my technical
 ---
 
 ### 🎓 Education
-- **BSc in Computer Engineering**  
+- **Computer Engineering**  
   Afyon Kocatepe University (2021 – 2025)
 
 ---
@@ -30,6 +30,7 @@ I enjoy turning ideas into usable products and constantly improving my technical
 ### 💼 Experience
 - **Software Developer Intern**  
   *3D Zeka Yetenek AR-GE*
+  *Aren Teknoloji*
 
 ---
 
@@ -64,17 +65,6 @@ I enjoy turning ideas into usable products and constantly improving my technical
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cernekr&show_icons=true&theme=radical"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cernekr&theme=radical"/>
 </p>
 
 ---
